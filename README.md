@@ -8,8 +8,7 @@
 
 **Transforming Data into Actionable Insights**
 
-[View Projects](#-featured-projects) • [About Me](#-about-me) • [Skills](#-technical-skills) • [Contact](#-lets-connect)
-
+[View Projects](#featured-projects) • [About Me](#about-me) • [Skills](#technical-skills) • [Contact](#-lets-connect)
 </div>
 
 ---
