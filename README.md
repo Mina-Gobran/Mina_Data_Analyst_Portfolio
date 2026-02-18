@@ -5,6 +5,7 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![API](https://img.shields.io/badge/-API%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Transforming and Analyzing Data into Actionable Insights**
 
@@ -45,6 +46,29 @@ I'm an aspiring data analyst passionate about uncovering stories hidden in data 
 **What I Learned:** End-to-end data pipeline from raw data processing to business recommendations
 
 [**→ View Full Project**](https://github.com/Mina-Gobran/E-Commerce_Olist_Analysis)
+
+---
+
+### 2️⃣ Tech Stock Performance Analysis (2023-2025)
+
+> **Complete data pipeline analyzing 3 years of stock market data for 7 major tech companies**
+
+![alt text](images/Tech_stock_Dashboard.gif)
+
+**Overview:** Built an automated system to collect financial data via API, store it in PostgreSQL, analyze it with SQL, and visualize insights in Power BI. Tracked AAPL, MSFT, GOOGL, AMZN, NVDA, META, and TSLA from 2023-2025.
+
+**Key Insights:**
+
+* **NVDA dominated** with **1,352% growth**, far outpacing competitors
+* **TSLA** proved most volatile with **21.14% max daily swing**
+* **Q4 consistently showed strongest returns** across all stocks
+* Trading volume declined **40% from 2023 to 2025** despite rising prices
+
+**Technologies:** `Python` `yfinance API` `PostgreSQL` `SQL Window Functions` `Power BI` `DAX`
+
+**What I Learned:** Working with financial APIs, time-series analysis, using SQL window functions for moving averages, and making technical analysis accessible through visualization
+
+[**→ View Full Project**](https://github.com/Mina-Gobran/Tech_Stock_Analysis)
 
 ---
 
@@ -205,7 +229,7 @@ I believe in learning by doing. Every project in this portfolio represents hands
 </tr>
 <tr>
 <td width="50%">
-<img src="images/Excel_Dashboard_data_jobs.png" alt="Excel Dashboard" />
+<img src="images/Tech_stock_Dashboard.gif" alt="Excel Dashboard" />
 <p align="center"><em>Excel-Based Reporting System</em></p>
 </td>
 <td width="50%">
