@@ -22,6 +22,7 @@ I'm an aspiring data analyst passionate about uncovering stories hidden in data 
 -  E-Commerce & Retail Analysis  
 -  Interactive Dashboard Development
 -  Data-Driven Decision Support
+-  Not so proficient  yet but I also collect data via API integeration and Python automation
 
 ---
 
