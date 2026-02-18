@@ -59,10 +59,11 @@ I'm an aspiring data analyst passionate about uncovering stories hidden in data 
 
 **Key Insights:**
 
-* **NVDA dominated** with **1,352% growth**, far outpacing competitors
-* **TSLA** proved most volatile with **21.14% max daily swing**
-* **Q4 consistently showed strongest returns** across all stocks
-* Trading volume declined **40% from 2023 to 2025** despite rising prices
+- **NVDA** dominated with **+1,211%** growth (from $14.30 to $187.54), reaching a peak of **+1,353%** at its highest point
+- **NVDA** showed extreme volatility with 24.37% max single-day gain, while TSLA hit 22.69% in a single day
+- **META** led in absolute volatility with $179.96 standard deviation and 23.28% max daily swing
+- Trading volume declined **40%** from 203.4 billion shares (2023) to 122.5 billion shares (2025) despite rising prices
+- April 9, 2025 was extraordinary - 4 stocks (TSLA, NVDA, AAPL, META) posted top-10 best single-day gains simultaneously
 
 **Technologies:** `Python` `yfinance API` `PostgreSQL` `SQL Window Functions` `Power BI` `DAX`
 
